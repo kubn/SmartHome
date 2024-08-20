@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ArrayAdapter<String> arrayAdapter;
     WifiManager wifiManager;
     static SoundPool soundPool;
-    int soundPoolZv = 3;
+    int soundPoolZv = 0;
 
     Handler handler;
 
